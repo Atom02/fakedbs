@@ -1,6 +1,12 @@
 {
     "offices": [
       {
+        "id": "10",
+        "name": "Office1",
+        "description": "Some Office",
+        "photo": "https://placeimg.com/150/150/architectuure"
+      },
+      {
         "id": "1",
         "name": "Office1",
         "description": "Some Office",
